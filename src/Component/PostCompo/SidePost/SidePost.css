@@ -1,0 +1,77 @@
+.sidebarContainer{
+    width: 27%;
+    text-align: center; 
+}
+
+.sidebarContainer span{
+    font-size: 15px;
+    text-transform: uppercase;
+    color: #565673;
+    letter-spacing: 1px;
+    font-weight: 600;
+   
+}
+
+.sidebarImg{
+    width: 100%;
+   
+}
+
+.sidebarImg img{
+   max-width: 100%;
+   max-height: 100%;
+   margin: 10px 0px;
+  
+}
+
+.sideblogPara{
+    padding: 5px 5px;
+    text-align: center;
+    margin: 0px;
+    color: #565673;
+    font-size: 14px;
+    display: inline-block;
+    
+}
+
+.socialNetworkImg{
+    /* display: flex; */
+    /* width: 100%; */
+    padding: 5px 0px;
+    
+
+}
+.SocialNetworkImg div{
+    /* width: 100%; */
+    display: flex;
+    justify-content: space-between;
+   overflow: hidden;
+}
+
+.socialNetworkImg img{
+    max-width: 20%;
+    max-height: 20%;
+    padding: 8px;
+   
+}
+
+.recentPost{
+    border-bottom: 2px solid #eee;
+    margin: 15px;
+}
+.recentPost h3{
+    font-weight: 500;
+    text-align: left;
+    letter-spacing: 1px;
+    font-size: 15px;
+    color: #6c6c6c;
+    margin: 0px;
+  
+}
+
+.recentPost p{
+    font-size: 12px;
+    text-align: left;
+    color: #6c6c6c;
+    
+}
